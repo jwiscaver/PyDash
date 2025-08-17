@@ -1,0 +1,68 @@
+{
+  "scroll_speed": 360,
+  "floor_y": 120,
+  "player_x": 220,
+  "default_obstacle_width": 30,
+  "obstacles": [
+    {
+      "gap": 300,
+      "width": 28
+    },
+    {
+      "gap": 260,
+      "width": 30
+    },
+    {
+      "gap": 240,
+      "width": 32
+    },
+    {
+      "gap": 280,
+      "width": 28
+    },
+    {
+      "gap": 220,
+      "width": 34
+    },
+    {
+      "gap": 260,
+      "width": 30
+    },
+    {
+      "gap": 210,
+      "width": 36
+    },
+    {
+      "gap": 240,
+      "width": 32
+    }
+  ],
+  "coins": [
+    {
+      "x": 850,
+      "y": 200
+    },
+    {
+      "x": 1150,
+      "y": 240
+    },
+    {
+      "x": 1450,
+      "y": 200
+    },
+    {
+      "x": 1750,
+      "y": 260
+    }
+  ],
+  "speed_portals": [
+    {
+      "x": 1400,
+      "speed": 420
+    },
+    {
+      "x": 2300,
+      "speed": 320
+    }
+  ]
+}
